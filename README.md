@@ -1,2 +1,2 @@
 # helpdesk
-HelpDesk para alunos no IFPR Campus Umuarama
+HelpDesk para alunos do IFPR Campus Umuarama.
